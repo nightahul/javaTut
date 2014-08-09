@@ -1,0 +1,9 @@
+Java uses JDBC (Java Database Connectivity) to connect to databases. JDBC allows you to connect to a wide-range of databases (Oracle, MySQL, etc),
+ but we're going to use the in-built database called Java DB, a version of Apache Derby.
+ 
+ Create a database in Services.
+ Connect to it
+ Add tables/data
+ Disconnect from it
+ 
+ 
